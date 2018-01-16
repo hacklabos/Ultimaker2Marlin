@@ -252,3 +252,6 @@ If all goes well the firmware is uploading
 
 That's ok.  Enjoy Silky Smooth Printing.
 
+
+# Links
+[Labos Ultimaker server log](https://docs.google.com/document/d/1ZxgVqjWdiVf0nIgK2b-M6Jt53bvE1emqScD_YZPzh6I/edit?usp=sharing) 
